@@ -1,1 +1,1 @@
-kristijanparadz.github.io/GraphTraversalVisualizer
+https://kristijanparadz.github.io/GraphTraversalVisualizer/
